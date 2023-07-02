@@ -1,0 +1,16 @@
+{
+  "name": "SWReducer",
+  "version": "0.0.1",
+  "description": "A React Hook based off useSWR to use Reducer hook inside to allow forwading mutate method of useSWR to use it in Reducer to facilitate usage in REST context.",
+  "main": "index.js",
+  "author": "Arthur-Louis Bonneau",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "http-method-enum": "^1.0.0",
+    "react": "^18.2.0",
+    "swr": "^2.2.0",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
